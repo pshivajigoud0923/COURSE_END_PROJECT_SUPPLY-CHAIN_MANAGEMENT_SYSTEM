@@ -1,0 +1,2 @@
+# COURSE_END_PROJECT_SUPPLY-CHAIN_MANAGEMENT_SYSTEM
+Supply Chain Management coordinates goods and information from suppliers to point of use.Supply Chain Management plays a role in smooth operations.This project builds a normalized Oracle Supply Chain Management Database using DDL,DML joins,PL/SQL,triggers,transactions and access control storing data once to reduce redundancy and ensure consistency.
